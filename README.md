@@ -1,10 +1,13 @@
 # My-Excel-Project
+
 E-commerce Sales Analysis Using Microsoft Excel
 
 🎯 Objective
+
 The main objective of this project is to analyze sales data to identify trends, customer behavior, and business performance using Microsoft Excel.
 
 📂 Dataset Description
+
 The dataset contains the following attributes:
 🆔 Sales_ID
 🏷 Product_ID
@@ -29,6 +32,7 @@ The dataset contains the following attributes:
 
 
 🧹 Data Cleaning Process
+
 The following steps were performed to clean the data:
 ✅ Removed duplicate records
 ✅ Data Imputation using Excel formulas
@@ -36,6 +40,7 @@ The following steps were performed to clean the data:
 ✅ Converted Order_Date into proper date format
 
 🛠 Tools & Techniques Used
+
 📊 Microsoft Excel
 ⚙️ Power Query
 📈 Pivot Tables
@@ -43,6 +48,7 @@ The following steps were performed to clean the data:
 🧮 Excel Functions (IF, VLOOKUP/XLOOKUP, SUMIF, COUNTIF, AVERAGEIF, ISBLANK)
 
 🔍 Key Analysis Performed
+
 1️⃣ Sales Performance Analysis 💰
 Analyzed monthly sales trends
 Identified top-selling Brand
@@ -59,15 +65,18 @@ The following steps were performed to clean the data:
 
 
 💡 Key Insights
+
 🎁 Discounts increased customer purchase quantity
 💳 Online payment is the preferred payment mode
 
 🚀 Business Recommendations
+
 ✅ Increase stock for Sports and Clothing categories
 ✅ Offer seasonal discounts during high-sales months
 ✅ Promote online payment offers and cashback schemes
 
 🏁 Conclusion
+
 This Excel-based data analysis project successfully identified important sales patterns, customer segments, and business opportunities. The insights obtained can help the organization improve decision-making, increase revenue, and enhance customer satisfaction.
 
 
