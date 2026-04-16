@@ -90,5 +90,5 @@ This Excel-based data analysis project successfully identified important sales p
 
 
 
-Dashboard Image
+
 
