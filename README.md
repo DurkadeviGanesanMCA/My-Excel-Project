@@ -87,14 +87,6 @@ This Excel-based data analysis project successfully identified important sales p
 
 
 
-1.Data Transformation
-
-
-1.Vlookup
-
-2.Data Imputation
-
-
 
 
 
