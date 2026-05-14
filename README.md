@@ -9,23 +9,23 @@ The main objective of this project is to analyze sales data to identify trends, 
 ### 📂 Dataset Description
 
 The dataset contains the following attributes:
-- 🆔 Sales_ID
-- 🏷 Product_ID
-- 🏪 Store_ID
-- 📅 Order_Date
-- 🧑 Name
-- 🎂 Age
-- ⚥ Gender
-- 🌍 Region
-- 📍 Location
-- 📦 Category
-- 🏷️ Brand
-- 💳 Payment Mode
-- 🎁 Discount_Details
-- 🔢 Quantity
-- 💲 Unit_Price
-- 📉 Discount
-- 💰 Total_Amount
+- 🆔 Sales_ID
+- 🏷 Product_ID
+- 🏪 Store_ID
+- 📅 Order_Date
+- 🧑 Name
+- 🎂 Age
+-  Gender
+- 🌍 Region
+- 📍 Location
+- 📦 Category
+- 🏷️ Brand
+- 💳 Payment Mode
+- 🎁 Discount_Details
+- 🔢 Quantity
+- 💲 Unit_Price
+- 📉 Discount
+- 💰 Total_Amount
 
 ### 🧹 Data Cleaning Process
 
