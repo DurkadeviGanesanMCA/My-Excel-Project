@@ -30,18 +30,18 @@ The dataset contains the following attributes:
 ### 🧹 Data Cleaning Process
 
 The following steps were performed to clean the data:
-✅ Removed duplicate records
-✅ Data Imputation using Excel formulas
-✅ Corrected inconsistent text formats (Region, Category, Payment Mode)
-✅ Converted Order_Date into proper date format
+- ✅ Removed duplicate records
+- ✅ Data Imputation using Excel formulas
+- ✅ Corrected inconsistent text formats (Region, Category, Payment Mode)
+- ✅ Converted Order_Date into proper date format
 
 ### 🛠 Tools & Techniques Used
 
-📊 Microsoft Excel
-⚙️ Power Query
-📈 Pivot Tables
-📉 Charts (Bar, Pie, Line)
-🧮 Excel Functions (IF, VLOOKUP/XLOOKUP, SUMIF, COUNTIF, AVERAGEIF, ISBLANK)
+- 📊 Microsoft Excel
+- ⚙️ Power Query
+- 📈 Pivot Tables
+- 📉 Charts (Bar, Pie, Line)
+- 🧮 Excel Functions (IF, VLOOKUP/XLOOKUP, SUMIF, COUNTIF, AVERAGEIF, ISBLANK)
 
 ### 🔍 Key Analysis Performed
 
