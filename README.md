@@ -46,30 +46,36 @@ The following steps were performed to clean the data:
 ### 🔍 Key Analysis Performed
 
 1️⃣ Sales Performance Analysis 💰
-Analyzed monthly sales trends
-Identified top-selling Brand
+- Analyzed monthly sales trends
+- Identified top-selling Brand
+  
 2️⃣ Customer Demographics Analysis 👥
-Compared sales by Age and Gender
+- Compared sales by Age and Gender
+  
 3️⃣ Category-wise Analysis 📦
-Sports and Clothing categories generated the highest revenue
-Home category showed lower sales performance
+- Sports and Clothing categories generated the highest revenue
+- Home category showed lower sales performance
+ 
 4️⃣ Discount Impact Analysis 🎁
-Higher discounts increased quantity sold
+- Higher discounts increased quantity sold
+  
 5️⃣ Payment Mode Analysis 💳
-Online payments were more popular than offline payments
-Digital transactions improved overall sales volume
+- Online payments were more popular than offline payments
+- Digital transactions improved overall sales volume 
 
+### Dashboard Image
+<img width="2048" height="965" alt="E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/fc4435f5-f54c-4985-9b5e-4d7aec5cac37" />
 
 ### 💡 Key Insights
 
-🎁 Discounts increased customer purchase quantity
-💳 Online payment is the preferred payment mode
+- 🎁 Discounts increased customer purchase quantity
+- 💳 Online payment is the preferred payment mode
 
 ### 🚀 Business Recommendations
 
-✅ Increase stock for Sports and Clothing categories
-✅ Offer seasonal discounts during high-sales months
-✅ Promote online payment offers and cashback schemes
+- ✅ Increase stock for Sports and Clothing categories
+- ✅ Offer seasonal discounts during high-sales months
+- ✅ Promote online payment offers and cashback schemes
 
 ### 🏁 Conclusion
 
